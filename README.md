@@ -1,5 +1,6 @@
 # React + Vite
 how to run app
+
 npm i
 
 npm run dev
